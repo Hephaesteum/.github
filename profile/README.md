@@ -1,1 +1,1 @@
-The Hephaesteum project aims to provide a comprehensive set of reusable building blocks for engineers. The goal is to enable developers to focus on the unique requirements of their projects, without having to reinvent the wheel each time they write code.
+The Hephaesteum project aims to provide a comprehensive set of reusable building blocks for engineers in Go. The goal is to enable developers to focus on the unique requirements of their projects, without having to reinvent the wheel each time they write code.
